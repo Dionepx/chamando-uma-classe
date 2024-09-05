@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;	
+}
+.artigo {
+	width: 1280px;
+	margin: 40px auto;
+	font-size: 20px;
+	text-align: center;
+}
+.artigo h1 {    /*O ponto chama o h1 que está dentro do artigo. O ponto a class.*/               
+	font-size: 23px;
+	color:rgb(122, 145, 230);
+}
